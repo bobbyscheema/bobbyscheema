@@ -1,4 +1,6 @@
-## Hi there 👋
+EECS @ UC Berkeley
+
+![bobbyscheema](https://komarev.com/ghpvc/?username=bobbyscheema)   
 
 <!--
 **bobbyscheema/bobbyscheema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
