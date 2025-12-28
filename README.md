@@ -4,8 +4,9 @@ Electrical Engineering & Computer Science @ UC Berkeley
 
 
 <div align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanF6enp3b3Z5dXlkYjd5cHM0amZncHIwM2NjZWp4c3BlM2o1c2N2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="300" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanF6enp3b3Z5dXlkYjd5cHM0amZncHIwM2NjZWp4c3BlM2o1c2N2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="150" height="150"/>
 </div>
+
 
 
 ![bobbyscheema](https://komarev.com/ghpvc/?username=bobbyscheema)
